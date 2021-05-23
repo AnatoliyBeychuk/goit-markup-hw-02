@@ -43,6 +43,9 @@ a {
 .logo .web {
   color: var(--accent-logo-color);
 }
+.logo .studio {
+  color: var(--accent-text-color-white);
+}
 
 .list-links .link {
   font-weight: 500;
